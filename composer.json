@@ -1,7 +1,4 @@
 {
   "name": "northwind/bakery-app",
-  "description": "Northwind Bakery Stock Management System",
-  "require": {
-    "php": ">=8.1"
-  }
+  "description": "Northwind Bakery Stock Management System"
 }
