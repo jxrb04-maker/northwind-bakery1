@@ -1,4 +1,7 @@
 {
   "name": "northwind/bakery-app",
-  "description": "Northwind Bakery Stock Management System"
+  "description": "Northwind Bakery Stock Management System",
+  "require": {
+    "ext-mysqli": "*"
+  }
 }
